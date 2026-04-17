@@ -60,7 +60,7 @@ This project focuses on analyzing an e-commerce dataset to uncover key business 
 
 ## 🖼️ Dashboard Preview
 
-![images](Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
